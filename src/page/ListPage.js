@@ -68,5 +68,4 @@ const handleDelete = (id) => {
         </div>
     );
 };
-
 export default ListPage;
