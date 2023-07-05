@@ -69,5 +69,4 @@ const handleDelete = (id) => {
     );
 };
 
-
 export default ListPage;
